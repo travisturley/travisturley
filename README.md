@@ -24,7 +24,7 @@
         </ul>
     </p>
 
-<h2>🛠️ Tools I Have Used & Learned</h2>
+<h2>🛠️ Some Tools I Have Used & Learned</h2>
     <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
