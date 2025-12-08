@@ -12,6 +12,5 @@
 </p>
 
 <h2>📊 GitHub Stats</h2>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=transparent)
-
-<h2>💻 Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=travisturley&theme=radical" alt="GitHub Streak" />
