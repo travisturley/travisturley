@@ -11,8 +11,8 @@
     <p align-"center">
         <strong>Fields of Interest:</strong>
         <ul>
-              <li>Front-End Development</li>
               <li>2-D Game Development</li>
+              <li>Front-End Development</li>
         </ul>
     </p>
     <p align-"center">
