@@ -19,3 +19,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=travisturley&theme=radical" alt="GitHub Streak" />
 </p>
+
+<h2>💻 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisturley&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
