@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 About Me</h2>
     <p align="left">
-        Education:
+        <strong>Education:</strong>
         <ul>
               <li>Associate of Applied Science - Computer Science</li>
               <li>Certificate of Applied Science - Computing Technologies</li>
