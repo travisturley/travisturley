@@ -21,7 +21,6 @@
               <li>Pixel Art</li>
               <li>Making Music</li>
               <li>Writing</li>
-              <li>Painting</li>
         </ul>
     </p>
 
