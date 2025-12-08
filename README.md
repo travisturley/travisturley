@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?text=🕹️Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/>
+Indie game developer
 
 <h2>👨‍💻 I Have Used & Learned</h2>
   <p align="left">
