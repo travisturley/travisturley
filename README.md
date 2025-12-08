@@ -11,6 +11,7 @@
         </ul>
         <br>
         Interests:
+        <br>
         <ul>
               <li>2-D Game Development</li>
         </ul>
