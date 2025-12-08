@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/>
-
+<!-- <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/> -->
+<img src="https://i.pinimg.com/originals/25/39/f2/2539f24271b0ded8c80a1532024b1a37.gif/>
 <h2>👨‍💻 About Me</h2>
     <p align="left">
         🎓️<strong>Education:</strong>
