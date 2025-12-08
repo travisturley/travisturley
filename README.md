@@ -4,11 +4,10 @@
 
 <h2>👨‍💻 About Me</h2>
   <p align="left">
-    <ul>
-      <li>Name</li>
-      <li>Location</li>
-      <li>Education</li>
-    </ul>
+      Education:
+        <ul>
+        <li>Associate of Applied Science - Computer Science</li>
+        </ul>
   </p>
 
 <h2>💻 I Have Used & Learned</h2>
