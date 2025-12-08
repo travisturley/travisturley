@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?text=🕹️Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/>
 
-<h1>This is a test!</h1>
-
 <h2>👨‍💻 About Me</h2>
     <p align="left">
         <strong>Education:</strong>
@@ -15,6 +13,15 @@
         <ul>
               <li>Front-End Development</li>
               <li>2-D Game Development</li>
+        </ul>
+    </p>
+    <p align-"center">
+        <strong>Hobbies:</strong>
+        <ul>
+              <li>Pixel Art</li>
+              <li>Making Music</li>
+              <li>Writing</li>
+              <li>Painting</li>
         </ul>
     </p>
 
