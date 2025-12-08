@@ -10,8 +10,9 @@
               <li>Computing Technologies, CAS</li>
         </ul>
         <br>
+        Interests:
         <br>
-        Interests: 2-D Game Development
+        2-D Game Development
     </p>
 
 <h2>💻 I Have Used & Learned</h2>
