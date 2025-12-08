@@ -11,10 +11,17 @@
         </ul>
     </p>
     <p align-"center">
-        Interests:
+        Fields of Interest:
         <ul>
               <li>Front-End Development</li>
               <li>2-D Game Development</li>
+        </ul>
+    </p>
+    <p align-"center">
+        Hobbies:
+        <ul>
+              <li>Pixel Art</li>
+              <li>Painting</li>
         </ul>
     </p>
 
