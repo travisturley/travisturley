@@ -17,13 +17,6 @@
               <li>2-D Game Development</li>
         </ul>
     </p>
-    <p align-"center">
-        Hobbies:
-        <ul>
-              <li>Pixel Art</li>
-              <li>Painting</li>
-        </ul>
-    </p>
 
 <h2>💻 I Have Used & Learned</h2>
     <p align="left">
