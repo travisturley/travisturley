@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?text=🕹️Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/>
 
-<h2>👨‍💻 I Have Used & Learned</h2>
+<h2>👨‍💻 About Me</h2>
+  <p align="left">
+
+  </p>
+
+<h2>💻 I Have Used & Learned</h2>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
