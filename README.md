@@ -5,7 +5,7 @@
 
 <h2> 🚀 &nbsp;Some Languages I Have Used & Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 </p>
 
 ![Snake animation](https://github.com/travisturley/travisturley/blob/output/github-contribution-grid-snake.svg)
