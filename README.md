@@ -13,10 +13,8 @@
 
 <h2>📊 GitHub Stats</h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=dark)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=travisturley&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=travisturley&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisturley&layout=compact&theme=dark)
 
 <h2>💻 Top Languages</h2>
 <p align="center">
