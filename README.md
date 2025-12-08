@@ -6,8 +6,8 @@
     <p align="left">
         <strong>Education:</strong>
         <ul>
-              <li>Associate of Applied Science - Computer Science</li>
-              <li>Certificate of Applied Science - Computing Technologies</li>
+              <li>Associate of Applied Science, Computer Science</li>
+              <li>Certificate of Applied Science, Computing Technologies</li>
         </ul>
     </p>
 
