@@ -12,7 +12,7 @@
         <br>
         Interests:
         <br>
-        2-D Game Development
+        <li>2-D Game Development</li>
     </p>
 
 <h2>💻 I Have Used & Learned</h2>
