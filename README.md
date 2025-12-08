@@ -12,9 +12,7 @@
 </p>
 
 <h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=dark)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=travisturley&theme=radical" alt="GitHub Streak" />
