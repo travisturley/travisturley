@@ -4,6 +4,7 @@
 
 <h2>👨‍💻 About Me</h2>
     <p align="left">
+        <strong>Location:</strong> United States
         <strong>Education:</strong>
         <ul>
               <li>Computer Science, AAS</li>
