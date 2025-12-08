@@ -1,19 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?text=🕹️Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/>
- ___________________
- | _______________ |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- | |XXXXXXXXXXXXX| |
- |_________________|
-     _[_______]_
- ___[___________]___
-|         [_____] []|__
-|         [_____] []|  \__
-L___________________J     \ \___\/
- ___________________      /\
-/###################\    (__)
+
 <h2>👨‍💻 About Me</h2>
     <p align="left">
         🎓️<strong>Education:</strong>
