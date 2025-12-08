@@ -11,8 +11,9 @@
         </ul>
         <br>
         Interests:
-        <br>
-        <li>2-D Game Development</li>
+        <ul>
+              <li>2-D Game Development</li>
+        </ul>
     </p>
 
 <h2>💻 I Have Used & Learned</h2>
