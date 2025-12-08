@@ -12,8 +12,8 @@
         <br>
         Interests:
         <br>
-        <br>
         <ul>
+              <li>Front-End Development</li>
               <li>2-D Game Development</li>
         </ul>
     </p>
