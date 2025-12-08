@@ -2,6 +2,8 @@
 
 <h1>This is a test!</h1>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRodmR6MDZ2aHNic3ZlOW1sbXhienJzaHBscnFycHo1Zm5iaWcxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PBuys9pFhbQbd66xC/giphy.gif"/>
+
 <h2>👨‍💻 About Me</h2>
   <p align="left">
 
