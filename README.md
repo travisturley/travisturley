@@ -9,9 +9,7 @@
               <li>Computer Science, AAS</li>
               <li>Computing Technologies, CAS</li>
         </ul>
-        <br>
         Interests:
-        <br>
         <ul>
               <li>Front-End Development</li>
               <li>2-D Game Development</li>
