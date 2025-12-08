@@ -10,7 +10,7 @@
 </p>
 
 <h2> A little bit about me and my interests</h2>
-```yaml
+<p>
 name: Travis Turley
 location: United States
 education:
@@ -22,4 +22,4 @@ fields_of_interests:
   [
     "Game Development"
   ]
-```
+</p>
