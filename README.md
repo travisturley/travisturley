@@ -11,18 +11,15 @@
 
 <h2> A little bit about me and my interests</h2>
 <p align="left">
-name: Travis Turley
-  <br>
-location: United States
-    <br>
-education:
-  [
-    "Certificate of Applied Science - Computing Technologies",
-    "Associate of Applied Science - Computer Science"
-  ]
-    <br>
-fields_of_interests:
-  [
-    "Game Development"
-  ]
+name: Travis Turley <br>
+location: United States <br>
+education: <br>
+  [ <br>
+    "Certificate of Applied Science - Computing Technologies", <br>
+    "Associate of Applied Science - Computer Science" <br>
+  ] <br>
+fields_of_interests: <br>
+  [ <br>
+    "Game Development" <br>
+  ] <br>
 </p>
