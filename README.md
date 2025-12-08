@@ -4,14 +4,14 @@
 
 <h2>👨‍💻 About Me</h2>
     <p align="left">
-        <u>Education:</u>
+        <strong>Education:</strong>
         <ul>
               <li>Computer Science, AAS</li>
               <li>Computing Technologies, CAS</li>
         </ul>
     </p>
     <p align-"center">
-        <u>Fields of Interest:</u>
+        <strong>Fields of Interest:</strong>
         <ul>
               <li>Front-End Development</li>
               <li>2-D Game Development</li>
