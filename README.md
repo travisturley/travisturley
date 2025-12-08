@@ -4,13 +4,14 @@
 
 <h2>👨‍💻 About Me</h2>
     <p align="left">
-        Location: United States
-        <br>
         Education:
         <ul>
               <li>Computer Science, AAS</li>
               <li>Computing Technologies, CAS</li>
         </ul>
+        <br>
+        <br>
+        Interests: 2-D Game Development
     </p>
 
 <h2>💻 I Have Used & Learned</h2>
