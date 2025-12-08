@@ -1,9 +1,5 @@
 <!-- **travisturley/travisturley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h2>✨Hey Everyone!✨</h2>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
 
 <br>
 
