@@ -1,10 +1,14 @@
-<img align="center" src="https://capsule-render.vercel.app/api?text=🕹️Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/>
+<img src="https://capsule-render.vercel.app/api?text=🕹️Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=150"/>
 
-<h1 align="center">This is a test!</h1>
+<h1>This is a test!</h1>
 
 <h2>👨‍💻 About Me</h2>
   <p align="left">
-
+    <ul>
+      <li>Name</li>
+      <li>Location</li>
+      <li>Education</li>
+    </ul>
   </p>
 
 <h2>💻 I Have Used & Learned</h2>
