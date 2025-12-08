@@ -12,4 +12,4 @@
 </p>
 
 <h2>📊 GitHub Stats</h2>
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=travisturley">
+<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisturley">
