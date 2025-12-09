@@ -10,7 +10,7 @@
         </ul>
     </p>
     <p align-"center">
-        🎯<strong>Fields of Interest:</strong>
+        🕹️<strong>Fields of Interest:</strong>
         <ul>
               <li>2-D Game Development</li>
               <li>Front-End Development</li>
