@@ -1,11 +1,15 @@
 <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
+    <img src="https://i.pinimg.com/originals/25/39/f2/2539f24271b0ded8c80a1532024b1a37.gif"/>
 </p>
 
 <p align='center'>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=dark">
     </a>
+</p>
+
+<p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
 </p>
 
 <h2>👨‍💻 About Me</h2>
