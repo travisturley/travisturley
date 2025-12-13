@@ -12,8 +12,8 @@
     </a>
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
-    <p align="center">
+<h2>👨‍💻 About Me</h2>
+    <p>
         🎓️<strong>Education:</strong>
         <ul>
               <li>Computer Science, AAS</li>
@@ -36,8 +36,8 @@
         </ul>
     </p>
 
-<h2 align="center">🛠️ Some Tools I Have Used & Learned</h2>
-    <p align="center">
+<h2>🛠️ Some Tools I Have Used & Learned</h2>
+    <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
