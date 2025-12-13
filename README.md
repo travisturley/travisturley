@@ -16,9 +16,9 @@
     <p>
         🎓️<strong>Education:</strong>
         <ul>
-              Computer Science, AAS
+              &bull; Computer Science, AAS
               <br>
-              Computing Technologies, CAS
+              &bull; Computing Technologies, CAS
               <br>
               <br>
         </ul>
@@ -26,9 +26,9 @@
     <p>
         🕹️<strong>Fields of Interest:</strong>
         <ul>
-              2-D Game Development
+              &bull; 2-D Game Development
               <br>
-              Front-End Development
+              &bull; Front-End Development
               <br>
               <br>
         </ul>
@@ -36,9 +36,9 @@
     <p>
         🎨<strong>Hobbies:</strong>
         <ul>
-              Pixel Art
+              &bull; Pixel Art
               <br/>
-              Making Music
+              &bull; Making Music
               <br>
               <br>
         </ul>
