@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/25/39/f2/2539f24271b0ded8c80a1532024b1a37.gif"/>
 </p>
 
-<p align='center'>
+<p align="center">
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=dark">
     </a>
@@ -16,23 +16,23 @@
     <p align="center">
         🎓️<strong>Education:</strong>
         <ul align="center">
-              <li>Computer Science, AAS</li>
-              <li>Computing Technologies, CAS</li>
+              <li align="center">Computer Science, AAS</li>
+              <li align="center">Computing Technologies, CAS</li>
         </ul>
     </p>
     <p align="center">
         🕹️<strong>Fields of Interest:</strong>
         <ul align="center">
-              <li>2-D Game Development</li>
-              <li>Front-End Development</li>
+              <li align="center">2-D Game Development</li>
+              <li align="center">Front-End Development</li>
         </ul>
     </p>
     <p align="center">
         🎨<strong>Hobbies:</strong>
         <ul align="center">
-              <li>Pixel Art</li>
-              <li>Making Music</li>
-              <li>Writing</li>
+              <li align="center">Pixel Art</li>
+              <li align="center">Making Music</li>
+              <li align="center">Writing</li>
         </ul>
     </p>
 
