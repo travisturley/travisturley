@@ -19,6 +19,7 @@
               Computer Science, AAS
               <br/>
               Computing Technologies, CAS
+              <hr>
         </ul>
     </p>
     <p>
@@ -27,6 +28,7 @@
               2-D Game Development
               <br/>
               Front-End Development
+              <hr>
         </ul>
     </p>
     <p>
@@ -35,6 +37,7 @@
               Pixel Art
               <br/>
               Making Music
+              <hr>
         </ul>
     </p>
 
