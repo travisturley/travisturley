@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=midnight-purple">
-    </a>
+    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
 </p>
 
 <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=github-dark">
+    </a>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
