@@ -20,14 +20,14 @@
               <li>Computing Technologies, CAS</li>
         </ul>
     </p>
-    <p align="center">
+    <p>
         🕹️<strong>Fields of Interest:</strong>
         <ul>
               <li>2-D Game Development</li>
               <li>Front-End Development</li>
         </ul>
     </p>
-    <p align="center">
+    <p>
         🎨<strong>Hobbies:</strong>
         <ul>
               <li>Pixel Art</li>
