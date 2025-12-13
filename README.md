@@ -17,22 +17,22 @@
     <p>
         🎓️<strong>Education:</strong>
         <ul>
-              Computer Science, AAS
+              Computer Science, AAS <br/>
               Computing Technologies, CAS
         </ul>
     </p>
     <p>
         🕹️<strong>Fields of Interest:</strong>
         <ul>
-              2-D Game Development
+              2-D Game Development <br/>
               Front-End Development
         </ul>
     </p>
     <p>
         🎨<strong>Hobbies:</strong>
         <ul>
-              Pixel Art
-              Making Music
+              Pixel Art <br/>
+              Making Music <br/>
               Writing
         </ul>
     </p>
