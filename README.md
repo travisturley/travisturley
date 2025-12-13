@@ -17,18 +17,20 @@
         🎓️<strong>Education:</strong>
         <ul>
               Computer Science, AAS
-              <br/>
+              <br>
               Computing Technologies, CAS
-              <hr>
+              <br>
+              <br>
         </ul>
     </p>
     <p>
         🕹️<strong>Fields of Interest:</strong>
         <ul>
               2-D Game Development
-              <br/>
+              <br>
               Front-End Development
-              <hr>
+              <br>
+              <br>
         </ul>
     </p>
     <p>
@@ -37,7 +39,8 @@
               Pixel Art
               <br/>
               Making Music
-              <hr>
+              <br>
+              <br>
         </ul>
     </p>
 
