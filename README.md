@@ -1,12 +1,13 @@
-<p align="center">
+<div align="center">
+<p>
     <img src="https://i.pinimg.com/originals/25/39/f2/2539f24271b0ded8c80a1532024b1a37.gif"/>
 </p>
 
-<p align="center">
+<p>
     <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
 </p>
 
-<p align="center">
+<p>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=github_dark">
     </a>
@@ -46,3 +47,4 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/>
     </p>
+</div>
