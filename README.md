@@ -12,32 +12,32 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
 </p>
 
-<h2>👨‍💻 About Me</h2>
-    <p align="left">
+<h2 align="center">👨‍💻 About Me</h2>
+    <p align="center">
         🎓️<strong>Education:</strong>
-        <ul>
+        <ul align="center">
               <li>Computer Science, AAS</li>
               <li>Computing Technologies, CAS</li>
         </ul>
     </p>
-    <p align-"center">
+    <p align="center">
         🕹️<strong>Fields of Interest:</strong>
-        <ul>
+        <ul align="center">
               <li>2-D Game Development</li>
               <li>Front-End Development</li>
         </ul>
     </p>
-    <p align-"center">
+    <p align="center">
         🎨<strong>Hobbies:</strong>
-        <ul>
+        <ul align="center">
               <li>Pixel Art</li>
               <li>Making Music</li>
               <li>Writing</li>
         </ul>
     </p>
 
-<h2>🛠️ Some Tools I Have Used & Learned</h2>
-    <p align="left">
+<h2 align="center">🛠️ Some Tools I Have Used & Learned</h2>
+    <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
