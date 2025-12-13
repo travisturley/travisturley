@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=dark">
+        <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=midnight-purple">
     </a>
 </p>
 
