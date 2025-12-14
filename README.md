@@ -1,14 +1,5 @@
 <div align="center">
 
-<p> <!-- VISTOR COUNT SECTION -->
-    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
-</p>
-<p> <!-- STATS SECTION -->
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=github_dark">
-    </a>
-</p>
-
 <h2>👨‍💻 About Me</h2> <!-- ABOUT ME SECTION -->
     <p>
         🎓️<strong>Education:</strong>
@@ -51,5 +42,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/>
     </p>
-    
+
+<p> <!-- VISTOR COUNT SECTION -->
+    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
+</p>
+<p> <!-- STATS SECTION -->
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=github_dark">
+    </a>
+</p>
+
 </div>
