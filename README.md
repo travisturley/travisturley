@@ -1,8 +1,5 @@
 <div align="center">
 
-<p> <!-- GIF SECTION -->
-    <img src="https://i.pinimg.com/originals/25/39/f2/2539f24271b0ded8c80a1532024b1a37.gif"/>
-</p>
 <p> <!-- VISTOR COUNT SECTION -->
     <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
 </p>
