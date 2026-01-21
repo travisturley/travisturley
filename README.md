@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 About Me</h2> <!-- ABOUT ME SECTION -->
     <p>
-        🎓️<strong>Education:</strong>
         <ul>
+            🎓️<strong>Education:</strong>
+              <br>
               Computer Science, AAS
               <br>
               Computing Technologies, CAS
@@ -12,8 +13,9 @@
         </ul>
     </p>
     <p>
-        🕹️<strong>Fields of Interest:</strong>
         <ul>
+             🕹️<strong>Fields of Interest:</strong>
+              <br>
               2-D Game Development
               <br>
               Front-End Development
@@ -22,10 +24,11 @@
         </ul>
     </p>
     <p>
-        🎨<strong>Hobbies:</strong>
         <ul>
+             🎨<strong>Hobbies:</strong>
+              <br>
               Pixel Art
-              <br/>
+              <br>
               Making Music
               <br>
               <br>
