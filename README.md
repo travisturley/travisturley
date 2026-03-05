@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h2>👨‍💻 About Me</h2> <!-- ABOUT ME SECTION -->
     <p>
@@ -48,11 +48,6 @@
 
 <p> <!-- VISTOR COUNT SECTION -->
     <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
-</p>
-<p> <!-- STATS SECTION -->
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=travisturley&show_icons=true&theme=github_dark">
-    </a>
 </p>
 
 </div>
