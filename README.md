@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <h2>👨‍💻 About Me</h2> <!-- ABOUT ME SECTION -->
     <p>
@@ -16,20 +16,9 @@
         <ul>
              🕹️<strong>Fields of Interest:</strong>
               <br>
-              2-D Game Development
+              2D Game Development
               <br>
               Front-End Development
-              <br>
-              <br>
-        </ul>
-    </p>
-    <p>
-        <ul>
-             🎨<strong>Hobbies:</strong>
-              <br>
-              Pixel Art
-              <br>
-              Making Music
               <br>
               <br>
         </ul>
