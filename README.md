@@ -36,7 +36,7 @@
     </p>
 
 <p> <!-- VISTOR COUNT SECTION -->
-    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" /><br>
+    <img align="center" src="https://komarev.com/ghpvc/?username=travisturley" />
 </p>
 
 </div>
